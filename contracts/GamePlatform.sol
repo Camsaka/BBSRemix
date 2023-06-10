@@ -25,7 +25,7 @@ contract GamePlatform is ERC1155, Ownable, ERC1155Receiver {
         bool isSold;
     }
 
-    //Array represent all items in sell (normally using mapping! to much gas with array)
+    //Array represent all items in sell (normally using mapping! to much gas with array) DEPRACTED !!
     MarketplaceItem[] public marketplace;
     
     //mandatory constructor for ERC-1155 standard
@@ -95,5 +95,5 @@ contract GamePlatform is ERC1155, Ownable, ERC1155Receiver {
     }
 
     //bytes format : 0x6d6168616d000000000000000000000000000000000000000000000000000000
- 
+    //not any function to permit user to get back them items from marketplace, they only can buy it themselves
 }

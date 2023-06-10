@@ -819,11 +819,11 @@
 			]
 		},
 		"contracts/GamePlatform.sol": {
-			"keccak256": "0x168a8b910fbb042eb9be09bc35d04c551330fe35824d122b397d893fd8d12c1b",
+			"keccak256": "0x9db68776d2c329a68a7335450dd562bd78d942f2d4b5205a851ad3a4869c7b34",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a56526620765e1e2fbb7a02dd31b49b334258f44df26e63c6fd28ce6c41a4e48",
-				"dweb:/ipfs/QmaN7pBy7yKoNwzUrZgW1mifVQPaSYp5wo5uDqRZU6KfaW"
+				"bzz-raw://527338ca124d551f75ad46ab1f539223a28249c586c2aaa298999c5f88dad9c2",
+				"dweb:/ipfs/Qme6Eps2WC8UFxPr2zFwzrJuCpTtKq7z4jDLcQwKP97UFE"
 			]
 		}
 	},
