@@ -14,7 +14,6 @@ contract Creator {
 }
 
 contract GamePlatform is ERC1155, Ownable, ERC1155Receiver {
-
     //Items structure
     struct MarketplaceItem {
         uint256 id;
